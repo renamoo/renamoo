@@ -1,5 +1,6 @@
 ### Hi there 🐾
-I'm Rena. This readme is still under construction 🚧
+I'm Rena, an engineer based in Tokyo 🇯🇵 Currently working at Google.  
+This readme is still under construction 🚧  
 
 ### I love works involving...
 - code writing
@@ -9,8 +10,11 @@ I'm Rena. This readme is still under construction 🚧
 - multi-tasking
 - supporting and assisting people
 
+💬 I'm looking for projects/jobs I can work on afterwork and weekends. If you have some ideas, please let me know!
+
 <!--
 ### I love working with...
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
