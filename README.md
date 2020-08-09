@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hi there 🐾
+I'm Rena. This readme is still under construction 🚧
+
+### I love works involving...
+- code writing
+- building designs and UI/UX
+- improving developer experiences (writing documentation, CI/CD setup etc...)
+- complex issue solving
+- multi-tasking
+- supporting and assisting people
 
 <!--
-**renamoo/renamoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### I love working with...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
