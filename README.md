@@ -15,7 +15,12 @@ If you are interested in my story or artifacts, please visit [my portfolio](http
 
 ### ⚙️ Technology and Tools
 
-#### Frequently use
+<details>
+  <summary>
+    Open sesami!
+  </summary>
+  
+  #### Frequently use
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -40,11 +45,11 @@ If you are interested in my story or artifacts, please visit [my portfolio](http
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 
-
 #### Interested in learning
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css)
 ![Polymer](https://img.shields.io/badge/-Polymer-000000?style=flat&logo=polymer-project)
+</details>
 
 ### 📫 You can reach me by...
 <a href="https://twitter.com/Rena_moo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-@rena_moo-20A2F1?style=flat&logo=Twitter&logoColor=FFFFFF"></a>    
