@@ -47,6 +47,11 @@ If you are interested in my story or artifacts, please visit [my portfolio](http
 ![Polymer](https://img.shields.io/badge/-Polymer-000000?style=flat&logo=polymer-project)
 
 ### 📫 You can reach me by...
-<a href="https://twitter.com/Rena_moo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-@rena_moo-20A2F1?style=flat&logo=Twitter&logoColor=FFFFFF"></a>  
+<a href="https://twitter.com/Rena_moo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-@rena_moo-20A2F1?style=flat&logo=Twitter&logoColor=FFFFFF"></a>    
 If you need my resume / linkedin, please reach out to me personally 🐕  
-Also, please feel free to ask me anything!
+Also, please feel free to ask me anything!  
+
+---
+<a href="https://renamoo-portfolio.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-B1E0E6?style=flat"></a>
+<a href="https://qiita.com/rena_m" target="_blank"><img alt="TechBlog" src="https://img.shields.io/badge/-Blog(Tech,JP)-949DA5?style=flat"></a>
+<a href="https://renamoo.hatenablog.com/" target="_blank"><img alt="MiscBlog" src="https://img.shields.io/badge/-Blog(Misc,JP&EN)-949DA5?style=flat"></a>
