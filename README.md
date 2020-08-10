@@ -1,6 +1,7 @@
 ### Hi there 🐾
-I'm Rena, an engineer based in Tokyo 🇯🇵. Currently working at Google.  
-This readme is still under construction 🚧  
+I'm Rena, an engineer based in Tokyo 🇯🇵  
+I started learning programming after graduation and was quickly fascinated by Tech world.  
+If you are interested in my story or artifacts, please visit [my portfolio](https://renamoo-portfolio.netlify.app/) 🌱
 
 ### 🌟 I love works involving...
 - code writing
@@ -10,11 +11,11 @@ This readme is still under construction 🚧
 - multi-tasking
 - supporting and assisting people
 
-💬 I'm looking for projects/jobs I can work on afterwork and weekends. If you have some ideas, please let me know!
+💬 I'm looking for projects / jobs I can work on afterwork and weekends. If you have some ideas, please let me know!
 
 ### ⚙️ Technology and Tools
 
-#### frequently use
+#### Frequently use
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -34,17 +35,18 @@ This readme is still under construction 🚧
 
 #### Have used before / Have learned
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
 ![Python3](https://img.shields.io/badge/-Python3-000000?style=flat&logo=python)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Interested in learning
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwind-css)
+![Polymer](https://img.shields.io/badge/-Polymer-000000?style=flat&logo=polymer-project)
+
+### 📫 You can reach me by...
+<a href="https://twitter.com/Rena_moo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-@rena_moo-20A2F1?style=flat&logo=Twitter&logoColor=FFFFFF"></a>  
+If you need my resume / linkedin, please reach out to me personally 🐕  
+Also, please feel free to ask me anything!
