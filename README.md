@@ -2,7 +2,7 @@
 I'm Rena, an engineer based in Tokyo 🇯🇵. Currently working at Google.  
 This readme is still under construction 🚧  
 
-### 🧳 I love works involving...
+### 🌟 I love works involving...
 - code writing
 - building designs and UI/UX
 - improving developer experiences (writing documentation, CI/CD setup etc...)
