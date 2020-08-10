@@ -17,7 +17,7 @@ If you are interested in my story or artifacts, please visit [my portfolio](http
 
 <details>
   <summary>
-    Open sesami!
+    Open sesame!
   </summary>
   
   #### Frequently use
