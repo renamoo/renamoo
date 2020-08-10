@@ -4,7 +4,7 @@ I started learning programming after graduation and was quickly fascinated by Te
 If you are interested in my story or artifacts, please visit [my portfolio](https://renamoo-portfolio.netlify.app/) 🌱
 
 ### 🌟 I love works involving...
-- code writing
+- code writing to make something better or bring someone joy ✨
 - building designs and UI/UX
 - improving developer experiences (writing documentation, CI/CD setup etc...)
 - complex issue solving
